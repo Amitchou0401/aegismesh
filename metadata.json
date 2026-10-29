@@ -1,0 +1,8 @@
+{
+  "name": "Remix AegisMesh: Disaster Prediction \u0026 Management",
+  "description": "Student-engineered real-time disaster prediction and alert system utilizing machine learning, low-cost sensor telemetry, and end-to-end mitigation, planning, and relief management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
